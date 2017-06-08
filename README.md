@@ -1,3 +1,3 @@
 # hello-world
-Practice repository
+Practice repository.
 I just learned how to edit branches. Hurray!
